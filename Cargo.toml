@@ -1,0 +1,6 @@
+[package]
+name = "mm_binary_io"
+version = "0.1.0"
+authors = ["munenaga <mm0205@outlook.jp>"]
+
+[dependencies]
