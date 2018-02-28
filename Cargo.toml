@@ -1,5 +1,5 @@
 [package]
-name = "mm_binary_io"
+name = "mm-binary-io"
 version = "0.1.0"
 authors = ["munenaga <mm0205@outlook.jp>"]
 
